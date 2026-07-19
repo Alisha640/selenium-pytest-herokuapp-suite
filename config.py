@@ -1,0 +1,12 @@
+LOGIN_URL = 'https://the-internet.herokuapp.com/login'
+DROPDOWN_URL = 'https://the-internet.herokuapp.com/dropdown'
+JS_ALERT_URL = 'https://the-internet.herokuapp.com/javascript_alerts'
+WINDOWS_URL = 'https://the-internet.herokuapp.com/windows'
+FILE_UPLOAD_URL = 'https://the-internet.herokuapp.com/upload'
+DYNAMIC_LOADING_URL = 'https://the-internet.herokuapp.com/dynamic_loading/1'
+DISAPPEARING_EL_URL = 'https://the-internet.herokuapp.com/disappearing_elements'
+CHECKBOX_URL = 'https://the-internet.herokuapp.com/checkboxes'
+HOVER_URL = 'https://the-internet.herokuapp.com/hovers'
+# always hardcode the correct credentials
+LOGIN_USERNAME = 'tomsmith'
+LOGIN_PASSWORD = 'SuperSecretPassword!'
